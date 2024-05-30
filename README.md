@@ -1,1 +1,1 @@
-Мой бэкенд: https://mydomen.nomoredomainswork.ru
+Мой бэкенд: mydomen.nomoredomainswork.ru
